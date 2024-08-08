@@ -20,5 +20,6 @@
     "ui"
   ],
   "author": "Sarhane Ghribi",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {"url": "https://github.com/SarhaneGhribi/react-native-permissions-ui/tree/v1.0.0"}
 }
